@@ -1,1 +1,1 @@
-# Robinhood-Financial-Health-Industry-Benchmark-Analysis
+# Robinhood: Financial Health & Industry Benchmark Analysis
