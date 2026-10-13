@@ -35,8 +35,8 @@ This analysis seeks to answer the following questions:
 The project uses Robinhood financial statement figures identified in the report and industry benchmarks from RMA.
 
 - **Company:** Robinhood Markets, Inc.
-- **Company classification:** SEC SIC 6211 — Security Brokers, Dealers & Flotation Companies.
-- **Benchmark classification:** NAICS 523150 — Investment Banking and Securities Intermediation.
+- **Company classification:** SEC SIC 6211 - Security Brokers, Dealers & Flotation Companies.
+- **Benchmark classification:** NAICS 523150 - Investment Banking and Securities Intermediation.
 - **Benchmark period:** April 1, 2024 – March 31, 2025, using the RMA "ALL" column as documented in the analysis.
 - **Company reporting source:** Robinhood's 2025 Form 10-K, as referenced in the original report.
 
