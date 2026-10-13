@@ -7,7 +7,9 @@ This project evaluates Robinhood Markets, Inc.'s financial health by analyzing f
 Using financial statement figures identified in the project report and industry data from RMA's NAICS 523150 category, *Investment Banking and Securities Intermediation*, the analysis examines liquidity, financial leverage, asset utilization, and profitability.
 
 The objective is to identify Robinhood's relative financial strengths, highlight areas of concern, and develop recommendations based on the comparison.
+
 ![Robinhood Financial Health Industry Benchmark Analysis](images/ratio_comparison.png)
+
 ## Project Objectives
 
 This analysis seeks to answer the following questions:
